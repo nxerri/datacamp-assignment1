@@ -2,7 +2,7 @@
 
 ## What we want you to learn by doing this assignment:
 
-  - Use Git and GitHub
+  - Use Git and GitHub !
   - Work with Python files (and not just notebooks!)
   - Do a pull request on a GitHub repository
   - Format your code properly using standard Python conventions
